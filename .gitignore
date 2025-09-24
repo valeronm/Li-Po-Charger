@@ -38,3 +38,7 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+# Fabrication toolkt files
+fabrication-toolkit-options.json
+production/
